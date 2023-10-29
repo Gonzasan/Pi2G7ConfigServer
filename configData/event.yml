@@ -3,7 +3,7 @@ spring:
     hibernate:
       ddl-auto: update
   datasource:
-    url: jdbc:mysql://db.ctd.academy:3306/pi21023c02_GRUPO7dev
+    url: jdbc:mysql://db.ctd.academy:3306/pi21023c02_GRUPO7
     username: pi21023c02_GRUPO7
     password: yi4Ohdu5
     driver-class-name: com.mysql.cj.jdbc.Driver
